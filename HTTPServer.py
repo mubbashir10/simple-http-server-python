@@ -1,6 +1,6 @@
 #########################################
 # Mubbashir Mustafa                     #
-# http://mubbahsir10.com                #
+# http://mubbashir10.com                #
 # mubbashir10@gmail.com                 # 
 #########################################
 
